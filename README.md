@@ -1,8 +1,6 @@
 # My Flutter Learning Journey
 
----
-
-###### Learning modules
+#### Learning modules
 
 - [ ] Splash screen
 - [ ] Login Page
